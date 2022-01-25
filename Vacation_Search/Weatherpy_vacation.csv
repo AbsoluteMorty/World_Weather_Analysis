@@ -1,5 +1,5 @@
 City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
-0,Airai,TL,80.89,-8.9266,125.4092,Juvinal Martin
+0,Airai,TL,80.89,-8.9266,125.4092,Foho Tailau
 4,Butaritari,KI,82.81,3.0707,172.7902,Isles Sunset Lodge
 8,Faanui,PF,78.82,-16.4833,-151.75,InterContinental Bora Bora Resort Thalasso Spa
 9,Port-Gentil,GA,77.36,-0.7193,8.7815,Fengshui Residence
@@ -23,7 +23,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 71,Bato,PH,81.75,13.3528,123.3677,Casa de Piedra
 72,Cayenne,GF,83.08,4.9333,-52.3333,Hôtel Le Dronmi
 77,Bathsheba,BB,79.41,13.2167,-59.5167,Atlantis Hotel
-78,Bubaque,GW,81.7,11.2833,-15.8333,Dakosta Island Beach Camp
+78,Bubaque,GW,81.7,11.2833,-15.8333,"Casa Dora, Bubaque"
 86,Namatanai,PG,86.36,-3.6667,152.4333,Seagulls Inn Namatani
 94,Vaini,TO,75.36,-21.2,-175.2,Little Italy Hotel
 111,Saint George,US,79.39,37.1041,-113.5841,Best Western Plus Abbey Inn
@@ -31,7 +31,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 119,Tautira,PF,77.02,-17.7333,-149.15,Pension Oaoa
 120,Ocos,GT,80.31,14.5094,-92.1933,Auto Hotel El Soñador
 123,Georgetown,MY,89.55,5.4112,100.3354,Cititel Penang
-124,Naze,JP,83.32,28.3667,129.4833,オーベルジュ・アガルイ
+124,Naze,JP,83.32,28.3667,129.4833,Shishime Hotel
 126,Sarankhola,BD,86.36,22.3082,89.7897,Red Crescent Cyclone Shelter Rashulpur
 128,Lom Sak,TH,87.69,16.7798,101.2422,Dee Iam Phudoi Resort
 135,Alice Springs,AU,80.15,-23.7,133.8833,Desert Palms Alice Springs
@@ -43,7 +43,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 147,Sao Filipe,CV,79.74,14.8961,-24.4956,Hotel Xaguate
 149,Bourail,NC,80.49,-21.5667,165.4833,Nekweta
 151,Flinders,AU,81.05,-34.5833,150.8552,Shellharbour Resort & Conference Centre
-152,Labuhan,ID,88.39,-6.8844,112.2051,PT PPI Lamongan Tambak C
+152,Labuhan,ID,88.39,-6.8844,112.2051,DoubleFAG
 153,Biaora,IN,83.17,23.8667,76.9167,SARPANCH MOTEL HOTEL
 154,San Cristobal,VE,75.38,7.7669,-72.225,Posada Villaven C.A.
 159,Saint-Philippe,RE,75.22,-21.3585,55.7679,p'ti case d'éléna
@@ -122,14 +122,14 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 384,Sarauli,IN,82.72,28.5,79.1,Dr.Zakir Khan
 388,Tombouctou,ML,83.79,20.0,-3.0,
 389,Guane,CU,75.4,22.2025,-84.0875,base de Campismo LosPortales de Guane
-392,Ko Samui,TH,87.71,9.5357,99.9357,The Passage Samui Villas & Resort
+392,Ko Samui,TH,87.71,9.5357,99.9357,The Passage
 397,Vikramasingapuram,IN,83.35,8.714,77.3893,Papanasam Lodge (Raja Lodge & Tourist Home)
-398,Patiya,BD,84.15,22.2931,91.9762,R Village
+398,Patiya,BD,84.15,22.2931,91.9762,অধ্যক্ষ ইকবাল মোজাদ্দেদী সাহেব এর বাড়ি
 399,Port Hueneme,US,84.63,34.1478,-119.1951,Hampton Inn Channel Islands Harbor
 407,Cape Coast,GH,76.48,5.1053,-1.2466,Samrit Hotel
 411,Majene,ID,84.42,-3.5403,118.9707,Kost Putri RABBANI
 413,Mecca,SA,83.37,21.4267,39.8261,"Makkah Clock Royal Tower, A Fairmont Hotel"
-415,Port Hedland,AU,86.05,-20.3167,118.5667,The Esplanade Hotel
+415,Port Hedland,AU,86.05,-20.3167,118.5667,"The Esplanade Hotel (Accommodation section closed for refurbishment - Bar, Restaurant & Functions remain open)"
 416,Glan Padidu,PH,79.03,5.8539,125.223,Hacienda Don Juan
 418,Tual,ID,81.32,-5.6667,132.75,Grand Vilia Hotel
 421,Half Moon Bay,US,78.98,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
@@ -147,7 +147,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 476,Balabac,PH,84.04,7.9868,117.0645,Sing and Swing Lodge
 479,Ascension,US,77.02,30.2169,-90.9001,Hampton Inn Gonzales
 481,Rani,IN,84.72,25.3503,73.3089,Bhawna Engineering Works
-485,Sungaipenuh,ID,77.59,-2.0833,101.3833,Hotel Jaya Wisata 2
+485,Sungaipenuh,ID,77.59,-2.0833,101.3833,penginapan citra alam
 486,Izumo,JP,84.15,35.3667,132.7667,Toyoko-Inn Izumoshi ekimae
 492,Kourou,GF,83.1,5.1552,-52.6478,Lodge TAKINI4 Guesthouse KOUROU FGU
 493,Sinnamary,GF,78.98,5.3833,-52.95,ALETHEIA Appartement Sinnamary
@@ -156,10 +156,10 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 500,Petlad,IN,82.74,22.4667,72.8,Raj Hotel
 503,Lompoc,US,81.12,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
 512,Makakilo City,US,82.72,21.3469,-158.0858,Marriott's Ko Olina Beach Club
-514,Mandera,KE,76.69,3.9366,41.867,Kornesh Hotel and Lodging
+514,Mandera,KE,76.69,3.9366,41.867,Mwalimu Guest mandera
 515,Nuevo Progreso,MX,77.59,23.1667,-97.95,Balneario Rio el Paraiso
 517,Pacifica,US,78.8,37.6138,-122.4869,"Pacifica Lighthouse, Trademark Collection by Wyndham"
-522,Seoul,KR,79.21,37.5683,126.9778,Lotte Hotel Seoul
+522,Seoul,KR,79.21,37.5683,126.9778,LOTTE Hotel Seoul
 525,Moroni,KM,77.0,-11.7022,43.2551,Hotel les Arcades
 526,Merauke,ID,82.83,-8.4667,140.3333,Swiss-Belhotel Merauke
 529,Artesia,US,85.48,33.8658,-118.0831,Days Inn & Suites by Wyndham Artesia
@@ -175,7 +175,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 568,Sibolga,ID,85.98,1.7427,98.7792,Hotel Syariah CN Darussalam
 569,Tabou,CI,76.55,4.423,-7.3528,hotêl doufoulougou
 570,Niquelandia,BR,77.18,-14.4739,-48.4597,Hotel Suinã
-572,Marakkanam,IN,85.89,12.2,79.95,OYO 73765 Ocean Breeze Guest House
+572,Marakkanam,IN,85.89,12.2,79.95,Palm Coast
 574,Vanimo,PG,83.84,-2.6741,141.3028,Vahmoneh Lodge Vanimo
 580,Trairi,BR,79.09,-3.2778,-39.2689,Zorah Beach Hotel
 581,Nagato,JP,84.65,34.3833,131.2,Yumoto Kanko Hotel Saikyo
@@ -197,7 +197,7 @@ City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
 633,Noumea,NC,82.38,-22.2763,166.4572,Hôtel Le Lagon
 634,Nizwa,OM,77.7,22.9333,57.5333,Golden Tulip Nizwa
 636,Hurricane,US,77.47,37.1753,-113.2899,Quality Inn Zion Park Area
-639,Radhanpur,IN,85.86,23.8333,71.6,YASH HOTEL
+639,Radhanpur,IN,85.86,23.8333,71.6,"HONEST - HOTEL (VIRAT HOTEL AND GUEST HOUSE, RADHANPUR))"
 641,Shenjiamen,CN,79.54,29.9576,122.298,Shihao Sea View Hotel
 643,Karachi,PK,84.02,24.9056,67.0822,Sadaat
 645,Kloulklubed,PW,86.5,7.0419,134.2556,Carp Island Resort
